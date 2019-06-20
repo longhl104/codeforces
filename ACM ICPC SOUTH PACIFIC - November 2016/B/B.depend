@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535174834 source:d:\study\usyd\acm-icpc\codeforces\acm icpc south pacific - november 2016\b\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
